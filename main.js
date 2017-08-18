@@ -641,7 +641,7 @@ jQuery(document).ready(function($){
 		marker = new google.maps.Marker({
 			position: new google.maps.LatLng(51.112265,17.033787),
 			map: map,
-			icon: new google.maps.MarkerImage("images/map_pointer.png", new google.maps.Size(38, 48), null, new google.maps.Point(18, 48))
+			icon: new google.maps.MarkerImage("/assets/images/map_pointer.png", new google.maps.Size(38, 48), null, new google.maps.Point(18, 48))
 		});
 	}
 	

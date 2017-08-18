@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "template-cs";
-  src:url("fonts/template-cs.eot");
-  src:url("fonts/template-cs.eot?#iefix") format("embedded-opentype"),
-    url("fonts/template-cs.woff") format("woff"),
-    url("fonts/template-cs.ttf") format("truetype"),
-    url("fonts/template-cs.svg#template-cs") format("svg");
+  src:url("/assets/fonts/template-cs.eot");
+  src:url("/assets/fonts/template-cs.eot?#iefix") format("embedded-opentype"),
+    url("/assets/fonts/template-cs.woff") format("woff"),
+    url("/assets/fonts/template-cs.ttf") format("truetype"),
+    url("/assets/fonts/template-cs.svg#template-cs") format("svg");
   font-weight: normal;
   font-style: normal;
 

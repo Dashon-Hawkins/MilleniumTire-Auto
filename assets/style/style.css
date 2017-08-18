@@ -97,7 +97,7 @@ pre
 	font-family: 'Courier new';
     font-size: 14px;
     line-height: 170%;
-	background: url('../images/code_background.png') repeat;
+	background: url('/assets/images/code_background.png') repeat;
 	text-shadow: 0 1px 0 #FFF;
 	zoom:1;
 	filter: dropshadow(color=#ffffff, offx=0, offy=1); 
@@ -781,63 +781,63 @@ ul.sf-menu li li:first-child li:first-child:hover ul, ul.sf-menu li li:first-chi
 /* --- body styles --- */
 body.image-1
 {
-	background: url("../images/backgrounds/images/image_1.jpg") fixed no-repeat center 0;
+	background: url("/assets/images/backgrounds//assets/images/image_1.jpg") fixed no-repeat center 0;
 }
 body.image-2
 {
-	background: url("../images/backgrounds/images/image_2.jpg") fixed no-repeat center 0;
+	background: url("/assets/images/backgrounds//assets/images/image_2.jpg") fixed no-repeat center 0;
 }
 body.image-3
 {
-	background: url("../images/backgrounds/images/image_3.jpg") fixed no-repeat center 0;
+	background: url("/assets/images/backgrounds//assets/images/image_3.jpg") fixed no-repeat center 0;
 }
 body.image-4
 {
-	background: url("../images/backgrounds/images/image_4.jpg") fixed no-repeat center 0;
+	background: url("/assets/images/backgrounds//assets/images/image_4.jpg") fixed no-repeat center 0;
 }
 body.image-5
 {
-	background: url("../images/backgrounds/images/image_5.jpg") fixed no-repeat center 0;
+	background: url("/assets/images/backgrounds//assets/images/image_5.jpg") fixed no-repeat center 0;
 }
 body.pattern-1
 {
-	background: url("../images/backgrounds/patterns/pattern_1.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_1.png") fixed;
 }
 body.pattern-2
 {
-	background: url("../images/backgrounds/patterns/pattern_2.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_2.png") fixed;
 }
 body.pattern-3
 {
-	background: url("../images/backgrounds/patterns/pattern_3.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_3.png") fixed;
 }
 body.pattern-4
 {
-	background: url("../images/backgrounds/patterns/pattern_4.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_4.png") fixed;
 }
 body.pattern-5
 {
-	background: url("../images/backgrounds/patterns/pattern_5.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_5.png") fixed;
 }
 body.pattern-6
 {
-	background: url("../images/backgrounds/patterns/pattern_6.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_6.png") fixed;
 }
 body.pattern-7
 {
-	background: url("../images/backgrounds/patterns/pattern_7.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_7.png") fixed;
 }
 body.pattern-8
 {
-	background: url("../images/backgrounds/patterns/pattern_8.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_8.png") fixed;
 }
 body.pattern-9
 {
-	background: url("../images/backgrounds/patterns/pattern_9.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_9.png") fixed;
 }
 body.pattern-10
 {
-	background: url("../images/backgrounds/patterns/pattern_10.png") fixed;
+	background: url("/assets/images/backgrounds/patterns/pattern_10.png") fixed;
 }
 body.overlay .background-overlay
 {
@@ -850,7 +850,7 @@ body.overlay .background-overlay
 	width: 100%;
 	height: 100%;
 	top: 0;
-	background: url("../images/backgrounds/images/overlay.png");
+	background: url("/assets/images/backgrounds//assets/images/overlay.png");
 	z-index: 1;
 }
 /* --- page --- */
@@ -1500,18 +1500,18 @@ body.overlay .background-overlay
 /* --- backgrounds --- */
 .background-1
 {
-	background-image: url('../images/samples/960x680/image_01.jpg');
+	background-image: url('/assets/images/samples/960x680/image_01.jpg');
 	background-size: cover;
 	background-position: center;
 }
 /* --- parallax --- */
 .parallax-1
 {
-	background-image: url('../images/samples/1920x1200/image_01.jpg');
+	background-image: url('/assets/images/samples/1920x1200/image_01.jpg');
 }
 .parallax-2
 {
-	background-image: url('../images/samples/1920x1200/image_02.jpg');
+	background-image: url('/assets/images/samples/1920x1200/image_02.jpg');
 }
 .parallax,
 .parallax h2,
@@ -1982,35 +1982,35 @@ span.number.sign
 }
 .avatar-1
 {	
-	background-image: url("../images/samples/90x90/users/image_01.png");
+	background-image: url("/assets/images/samples/90x90/users/image_01.png");
 }
 .avatar-2
 {
-	background-image: url("../images/samples/90x90/users/image_02.png");
+	background-image: url("/assets/images/samples/90x90/users/image_02.png");
 }
 .avatar-3
 {
-	background-image: url("../images/samples/90x90/users/image_03.png");
+	background-image: url("/assets/images/samples/90x90/users/image_03.png");
 }
 .avatar-4
 {
-	background-image: url("../images/samples/90x90/users/image_04.png");
+	background-image: url("/assets/images/samples/90x90/users/image_04.png");
 }
 .avatar-5
 {
-	background-image: url("../images/samples/90x90/users/image_05.png");
+	background-image: url("/assets/images/samples/90x90/users/image_05.png");
 }
 .avatar-6
 {
-	background-image: url("../images/samples/90x90/users/image_06.png");
+	background-image: url("/assets/images/samples/90x90/users/image_06.png");
 }
 .avatar-7
 {
-	background-image: url("../images/samples/90x90/users/image_07.png");
+	background-image: url("/assets/images/samples/90x90/users/image_07.png");
 }
 .avatar-8
 {
-	background-image: url("../images/samples/90x90/users/image_08.png");
+	background-image: url("/assets/images/samples/90x90/users/image_08.png");
 }
 .posted-by h6
 {
@@ -2365,7 +2365,7 @@ li.template-bullet:before
 	display: block;
 	height: auto;
 	min-height: 20px;
-	background: url('../images/preloader.gif') no-repeat center center;
+	background: url('/assets/images/preloader.gif') no-repeat center center;
 }
 .blog a.post-image>img,
 .post.single .post-image img,
@@ -3185,7 +3185,7 @@ div.pp_default .pp_description
 div.pp_default .pp_close
 {
 	margin-top: 8px;
-	background: url("../images/close.png") 0 0 no-repeat;
+	background: url("/assets/images/close.png") 0 0 no-repeat;
 }
 div.pp_default .pp_close:hover
 {
